@@ -129,3 +129,9 @@
 #### Prediction
 
  <img src="outputs/prediction.png" alt="SH1" width="900" height="600" />
+
+ #### Prediction Visualization
+  <img src="outputs/complete_tree.png" alt="SH1" width="900" height="600" />
+
+ #### Students in Risk are segregatted
+  <img src="outputs/High risk saved.png" alt="SH1" width="900" height="600" />
