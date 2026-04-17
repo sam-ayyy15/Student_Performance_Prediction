@@ -1,5 +1,5 @@
 <h1 align="center">Student Score Prediction and Visualization Using Different ML algorithm</h1>
-<p align="center">Glowlogics Project 1.</p>
+<p align="center">Glowlogics Project 1</p>
 <p align="center">Samay Shetty</p>
 <br>
 
@@ -8,7 +8,7 @@
 <br>
 
 
-####Process:
+#### Process:
 ### Data Collecting
 
 - We must collect the data we need according to our needs.
