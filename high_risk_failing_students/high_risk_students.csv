@@ -1,0 +1,13 @@
+Student_ID,Model,Score,Grade,Status
+3,Linear Regression,21.47,F,Fail
+3,Lasso,21.47,F,Fail
+3,Ridge,21.47,F,Fail
+5,Linear Regression,7.76,F,Fail
+5,Lasso,7.76,F,Fail
+5,Ridge,7.76,F,Fail
+7,Linear Regression,34.98,F,Fail
+7,Lasso,34.99,F,Fail
+7,Ridge,34.98,F,Fail
+8,Linear Regression,-5.75,F,Fail
+8,Lasso,-5.75,F,Fail
+8,Ridge,-5.75,F,Fail
