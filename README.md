@@ -126,3 +126,6 @@
 
 - Implement cross-validation techniques (like k-fold cross-validation) to ensure that the model generalizes well to unseen data.
 
+#### Prediction
+
+ <img src="outputs/prediction.png" alt="SH1" width="900" height="600" />
