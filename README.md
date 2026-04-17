@@ -3,18 +3,10 @@
 <p align="center">Samay Shetty</p>
 <br>
 
-- Process<br>
-  ##### _Data Collecting_
-  ##### _Data Preprocessing_ 
-  ##### _Data Analysis_
-  ##### _Split the Data into training and testing_
-  ##### _Evaluate the Model_
-  ##### _Check model performance_
-  ##### _Fine-tune the Model_
 
-  
+
 <br>
-
+####Process:
 ### Data Collecting
 
 - We must collect the data we need according to our needs.
