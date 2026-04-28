@@ -1,4 +1,4 @@
-<h1 align="center">Student Score Prediction and Visualization Using Different ML algorithm</h1>
+<h1 align="center">Student Score Prediction and Visualization Using Machine Learning</h1>
 <p align="center">Glowlogics Project 1</p>
 <p align="center">Samay Shetty</p>
 <br>
